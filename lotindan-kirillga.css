@@ -1,0 +1,19 @@
+#lotindan_kirillga {
+	position:fixed;
+	z-index:999;
+	bottom:20px;
+	right:20px;
+}
+#lotindan_kirillga_oyna {
+	position:fixed;
+	z-index:999;
+	bottom:70px;
+	right:20px;
+	padding:10px;
+	background:#ffffff;
+	display:none;
+}
+#lotindan_kirillga_lat,
+#lotindan_kirillga_cyr {
+	display:none;
+}
